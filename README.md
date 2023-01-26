@@ -25,8 +25,8 @@ Make an NFT View Card Component
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/julioresende77/Frontend-Mentor---NFT-preview-card-component-solution)
-- Live Site URL: [Add live site URL here](https://julioresende77.github.io/Frontend-Mentor---NFT-preview-card-component-solution/)
+- Solution URL: [solution url](https://github.com/julioresende77/Frontend-Mentor---NFT-preview-card-component-solution)
+- Live Site URL: [website url](https://julioresende77.github.io/Frontend-Mentor---NFT-preview-card-component-solution/)
 
 ## My process
 
